@@ -1,0 +1,18 @@
+div#FooterSegmentSUI.ui.inverted.segment {
+  bottom: 0;
+  width: 100%;
+  border-radius: 0;
+  height: 140px;
+}
+
+.ui.segment {
+  margin: 0;
+}
+
+.black.center.aligned.row {
+  height: 80;
+}
+
+.copyright {
+  color: #ffffff73;
+}

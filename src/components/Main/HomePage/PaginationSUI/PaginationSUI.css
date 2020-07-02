@@ -1,0 +1,8 @@
+.PaginationSUI {
+  display: flex;
+  justify-content: center;
+}
+
+.ui.pagination.menu {
+  background-color: #ffffff;
+}

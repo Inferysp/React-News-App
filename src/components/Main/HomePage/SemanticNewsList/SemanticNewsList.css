@@ -1,0 +1,14 @@
+#SemanticNewsList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2px 8px 2px 8px;
+}
+
+div.ui.card {
+    z-index: 0;
+    /* https://www.cssmatic.com/box-shadow */
+    -webkit-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.37);
+    -moz-box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.37);
+    box-shadow: 10px 10px 5px -3px rgba(0,0,0,0.37);
+}

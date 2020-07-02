@@ -1,0 +1,14 @@
+div#CategoryDropdownSUI.ui.fluid.selection.dropdown {
+  border: solid 1px black;
+  margin-right: 10px;
+  width: 240px;
+}
+.ui.fluid.selection.dropdown{
+  z-index: 1;
+}
+
+@media(max-width: 900px) {
+  .ui.fluid.selection.dropdown {
+    margin-bottom: 4px;
+  }
+}

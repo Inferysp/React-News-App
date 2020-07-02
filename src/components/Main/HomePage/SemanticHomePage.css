@@ -1,0 +1,11 @@
+#SemanticHomePage {
+  padding: 0px 60px 0px 60px;
+  position: relative;
+}
+
+.ui.card:first-child {
+  margin-top: 1em !important;
+}
+div#SemanticNewsList {
+  margin-top: 100px;
+}

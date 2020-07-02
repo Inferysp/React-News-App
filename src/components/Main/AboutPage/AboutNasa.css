@@ -1,0 +1,37 @@
+div.aboutNasaPage {
+  display: flex;
+  align-items: center;
+  background-color: #b5b5b5;
+  padding: 2px 8px 2px 8px;
+}
+
+.NasaPage-container-selecors {
+  display: flex;
+  justify-content: center;
+  background-color: burlywood;
+  padding: 10px;
+}
+
+.startDate-container {
+  margin-right: 10px;
+}
+
+.selector-container {
+  margin-left: 10px;
+}
+
+@media(max-width: 900px) {
+  .NasaPage-container-selecors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    padding: 10px;
+    }
+    .startDate-container,
+    .endDate-container,
+    .selector-container {
+      margin-bottom: 10px;
+    }
+}

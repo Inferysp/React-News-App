@@ -1,0 +1,10 @@
+#LanguageBarSUI {
+  border: solid 1px black;
+  min-width: 240px;
+}
+
+.ui.button.floating.labeled.search.dropdown.icon div.default.text,
+.ui.button.floating.labeled.search.dropdown.icon div.text,
+div.visible.menu.transition {
+  z-index: 1;
+}
